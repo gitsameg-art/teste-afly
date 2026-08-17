@@ -532,11 +532,6 @@ Assim, as alterações relacionadas podem ser tratadas como uma única operaçã
 - POSTGRESQL GLOBAL DEVELOPMENT GROUP. **PostgreSQL Documentation: Transaction Isolation**. Documentação oficial do PostgreSQL. Disponível em: https://www.postgresql.org/docs/current/transaction-iso.html. Acesso em: 16 ago. 2026.
 
 - POSTGRESQL GLOBAL DEVELOPMENT GROUP. **PostgreSQL Documentation: CREATE PROCEDURE**. Disponível em: https://www.postgresql.org/docs/18/sql-createprocedure.html. Acesso em: 16 ago. 2026.
-
-- ELMASRI, Ramez; NAVATHE, Shamkant B. **Sistemas de Banco de Dados**. Pearson.
-
-- SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. **Sistema de Banco de Dados**. Elsevier.
-
 ---
 
 # 4. Conclusões
