@@ -17,6 +17,14 @@ Dessa maneira, uma abordagem híbrida tende a ser mais segura e eficiente, evita
 
 ---
 
+```mermaid
+erDiagram
+
+    pessoa{
+        int id
+    }
+```
+
 # 1. Desenvolvimento Teórico
 
 ## 1.1 O que é regra de negócio?
