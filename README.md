@@ -23,6 +23,10 @@ erDiagram
     pessoa{
         int id
     }
+    carro{
+        int id
+    }
+    pessoa ||--|| carro : "1:1"
 ```
 
 # 1. Desenvolvimento Teórico
