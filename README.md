@@ -28,7 +28,18 @@ erDiagram
     }
     pessoa ||--|| carro : "1:1"
 ```
-
+```mermaid
+erDiagram
+item{ 
+    int id 
+    string nome 
+    decimal valor 
+}
+ pessoa{
+    int id 
+ } 
+ pessoa ||--|| item :"1:n"
+``` 
 # 1. Desenvolvimento Teórico
 
 ## 1.1 O que é regra de negócio?
